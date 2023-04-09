@@ -68,6 +68,6 @@ A reputation system can be implemented to encourage collaboration and ensure tha
   <tr>
     <td align="center"><a href="https://github.com/sahuljr7"><img src="https://media.licdn.com/dms/image/D4D03AQFgG4_4LWlcfg/profile-displayphoto-shrink_200_200/0/1664623816108?e=1686787200&v=beta&t=R8b5yCbGkHsWVwMf7SNdkDCvf604aPfcUX-e5SiF-Y8" width="100px;" alt=""/><br /><sub><b>Sahul Kumar Parida</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kumardeepak85690"><img src="https://media.licdn.com/dms/image/C4D03AQHgK2J_HoyrdQ/profile-displayphoto-shrink_200_200/0/1642847705839?e=1686787200&v=beta&t=y3HXtLhy7sJ_f1zTXbmxqakFjTLSF3iXHGv7loHafzg" width="100px;" alt=""/><br /><sub><b>Deepak Kumar</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/DRxStrange"><img src="https://media.licdn.com/dms/image/D4D35AQG-sdslNAXNIQ/profile-framedphoto-shrink_200_200/0/1662611129102?e=1681621200&v=beta&t=KY-Xckk86BWYXFS1kIOXU5tmz_8Swl514gWUaBh9CZc" width="100px;" alt=""/><br /><sub><b>Ashwani Sharma</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/DRxStrange"><img src="https://media.licdn.com/dms/image/D4D35AQG-sdslNAXNIQ/profile-framedphoto-shrink_200_200/0/1662611129102?e=1681621200&v=beta&t=KY-Xckk86BWYXFS1kIOXU5tmz_8Swl514gWUaBh9CZc" width="100px;" alt=""/><br /><sub><b>Saswat Panda</b></sub></a><br /></td> 
   </tr>
 </table>
